@@ -1,15 +1,44 @@
-{"data":[
-{"producto":"velez trio","unidad":3,"precio":72,"talla":"","categoria":"accesorios","img_portafolio":"assets/img/portfolio/Velez Trio.jpeg"},
-{"producto":"bodys polilycra","unidad":1,"precio":45,"talla":"","categoria":"ropa_femenina","img_portafolio":"assets/img/portfolio/Bodys Polylicras.jpeg"},
-{"producto":"sandalia tacon corrido","unidad":1,"precio":65,"talla":"37 AL 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/SandaliaTaconCorrido.jpeg"},
-{"producto":"calzado hugo boss","unidad":1,"precio":65,"talla":"37 AL 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/HugoBOOS.jpg"},
-{"producto":"bolso velez combo","unidad":2,"precio":68,"talla":"","categoria":"accesorios","img_portafolio":"assets/img/portfolio/BolsoVelezCombo.JPEG"},
-{"producto":"converse kids","unidad":1,"precio":48,"talla":"24 AL 35","categoria":"calzado_infantil","img_portafolio":"assets/img/portfolio/ConverseKids.JPEG"},
-{"producto":"brahma caña alta","unidad":1,"precio":68,"talla":"37 AL 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/BrahmaCañaAlta.JPEG"},
-{"producto":"nike 354","unidad":1,"precio":65,"talla":"37 AL 43","categoria":"calzado_masculino","img_portafolio":"assets/img/portfolio/Nike.JPEG"},
-{"producto":"sandalia tacos","unidad":1,"precio":58,"talla":"37 AL 40","categoria":"calzado_femenino","img_portafolio":"assets/img/portfolio/SandaliaTacos.JPEG"},
-{"producto":"combo botin casual y bolso","unidad":2,"precio":168,"talla":"37 AL 43","categoria":"accesorios","img_portafolio":"assets/img/portfolio/ComboBotinCasualYBolso.JPEG"},
-{"producto":"bolso de yute y tacon","unidad":2,"precio":108,"talla":"37 AL 40","categoria":"accesorios","img_portafolio":"assets/img/portfolio/BolsoDeYuteYTacon.JPEG"},
-{"producto":"bolso de yute y plataforma","unidad":2,"precio":70,"talla":"37 AL 40","categoria":"accesorios","img_portafolio":"assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"},
-{"producto":"bolso de yute y plataforma","unidad":2,"precio":70,"talla":"37 AL 40","categoria":"accesorios","img_portafolio":"assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"}
-]}
+{
+    "data": [
+        {
+            "producto": "Molinillo eléctrico de granos de café y especias",
+            "unidad": 1,
+            "precio": 55000,
+            "talla": "Rápido y uniforme, con potentes motores y cuchillas duraderas, puede moler de manera eficiente y uniforme.",
+            "categoria": "cocina",
+            "img_portafolio": "assets/img/portfolio/Velez Trio.jpeg"
+        },
+        {
+            "producto": "Crispetera cuadrada",
+            "unidad": 1,
+            "precio": 75000,
+            "talla": "Es una máquina portátil que permite hacer palomitas frescas y sabrosas.",
+            "categoria": "Cocina",
+            "img_portafolio": "assets/img/portfolio/Bodys Polylicras.jpeg"
+        },
+        {
+            "producto": "Ventilador de cuello portátil recargable",
+            "unidad": 1,
+            "precio": 40000,
+            "talla": "El ventilador manos libres fue diseñado como un auricular para liberar tus manos.",
+            "categoria": "cuidado_personal",
+            "img_portafolio": "assets/img/portfolio/SandaliaTaconCorrido.jpeg"
+        },
+        {
+            "producto": "Kit 4 Bolsas Ahorradoras De Espacio 80x60 + Bomba Eléctrica",
+            "unidad": 1,
+            "precio": 60000,
+            "talla": "37 AL 43",
+            "categoria": "hogar",
+            "img_portafolio": "assets/img/portfolio/HugoBOOS.jpg"
+        },
+        {
+            "producto": "bolso de yute y plataforma",
+            "unidad": 2,
+            "precio": 70,
+            "talla": "37 AL 40",
+            "categoria": "accesorios",
+            "img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
+        }
+    ]
+}
